@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<!--
+/Users/andrea/Desktop/Projects/RadioGo/AppIcon/template.xml
+	-->
+    <folderPath>/Users/andrea/Desktop/Projects/RadioGo/AppIcon</folderPath>
+    <filename>AppIcon</filename>
+    <extension>png</extension>
+    <window>
+        <width>1024</width>
+        <height>1024</height>
+        <borderRadius>0</borderRadius>
+        <gradient1>FFFFFF</gradient1>
+        <gradient2>FFFFFF</gradient2>
+    </window>
+
+	<!--
+    <command>
+        <name>drawGradientCircle</name>
+        <param>50</param>
+        <param>BBBBBB</param>
+        <param>4D4D4D</param>
+    </command>
+-->
+    <command>
+        <name>drawGradientCircle</name>
+        <param>20</param>
+        <param>FFFAFA</param>
+        <param>FF0000</param>
+    </command>
+
+	<!--
+    <command>
+        <name>addImage</name>
+        <param>icons8-radio_filled.png</param>
+        <param>312</param>
+        <param>200</param>
+        <param>400</param>
+        <param>400</param>		
+    </command>-->
+
+	    <command>
+	        <name>addImage</name>
+	        <param>icons8-radio_filled.png</param>
+	        <param>208</param>
+	        <param>200</param>
+	        <param>200</param>
+	        <param>200</param>		
+	    </command>
+
+	    <command>
+	        <name>addImage</name>
+	        <param>icons8-radio_filled.png</param>
+	        <param>616</param>
+	        <param>200</param>
+	        <param>200</param>
+	        <param>200</param>		
+	    </command>
+		
+	    <command>
+	        <name>addImage</name>
+	        <param>icons8-dj_filled.png</param>
+	        <param>422</param>
+	        <param>420</param>
+	        <param>180</param>
+	        <param>180</param>		
+	    </command>
+		
+		
+    
+    <command>
+        <name>addImage</name>
+        <param>icons8-audio_wave_filled.png</param>
+        <param>287</param>
+        <param>620</param>
+        <param>450</param>
+        <param>300</param>
+    </command>
+   
+</template>
